@@ -1,0 +1,19 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        4096
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/vggVecMeta.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/labels.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/sprite_image.jpg",
+        "singleImageDim": [
+          248,
+          248
+        ]
+      }
+    }
+  ]
+}
