@@ -6,7 +6,7 @@
         4096
       ],
       "tensorPath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/vggVecMeta_deep.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/labels1.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/labelsKmean.tsv",
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/sprite_image.jpg",
         "singleImageDim": [
