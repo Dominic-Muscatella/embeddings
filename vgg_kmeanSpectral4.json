@@ -5,7 +5,7 @@
       "tensorShape": [
         4096
       ],
-      "tensorPath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/vggVecMeta_deep.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/pca3.tsv",
       "metadataPath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/labelsSpectralKmean4.tsv",
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/sprite_image.jpg",
