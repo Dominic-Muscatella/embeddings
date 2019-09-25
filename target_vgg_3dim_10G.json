@@ -1,0 +1,19 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        3
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/pca3_target_vgg.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/labelsSpectralKmean10BIG.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/Dominic-Muscatella/embeddings/master/target_sprite_image.jpg",
+        "singleImageDim": [
+          341,
+          341
+        ]
+      }
+    }
+  ]
+}
